@@ -1,5 +1,5 @@
 # Projeto-de-Extensao-Web-2
-Descrição do Projeto
+
 O Instituto Social Amor ao Próximo é um projeto social criado com o propósito de transformar vidas por meio da educação, saúde, alimentação e esportes.
 Nosso compromisso é amar ao próximo através de ações concretas que promovem dignidade, inclusão e oportunidades para a comunidade.
 Atualmente, o instituto oferece:
