@@ -5,5 +5,7 @@ O projeto será desenvolvido utilizando Python, MySQL, biblioteca de conexão co
 
 
 Instruções de uso
+
+
 Para utilizar o sistema, é necessário ter o Python e o MySQL instalados no computador. Após clonar o repositório, o usuário deve acessar a pasta do projeto pelo terminal e instalar as dependências necessárias. Em seguida, deve-se criar o banco de dados no MySQL com o nome definido no projeto e executar o script SQL disponível na pasta database para criar as tabelas.
 Depois de configurar corretamente o banco de dados e ajustar as credenciais de conexão no arquivo de configuração, o sistema pode ser iniciado executando o arquivo principal localizado na pasta src. A partir disso, o usuário poderá realizar o cadastro de beneficiários, registrar distribuição de refeições, organizar atendimentos na farmácia, emitir documentos e acessar relatórios administrativos.
