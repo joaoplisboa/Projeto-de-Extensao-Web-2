@@ -11,7 +11,7 @@ Emissão e regularização de documentos
 Incentivo à prática de esportes
 Em 13/06/2026, o Instituto completará 10 anos de atuação, celebrando uma década de impacto social e transformação.
 Este projeto acadêmico tem como objetivo desenvolver um sistema para auxiliar na gestão das atividades do instituto, organizando atendimentos, cadastros, doações e serviços prestados.
-Objetivo do Sistema
+
 O sistema será desenvolvido para:
 Gerenciar cadastro de beneficiários
 Controlar distribuição de refeições
@@ -23,5 +23,5 @@ Tecnologias Utilizadas
 O projeto será desenvolvido utilizando:
 Python
 MySQL
-Biblioteca de conexão com banco de dados (ex: mysql-connector-python)
+Biblioteca de conexão com banco de dados 
 Git/GitHub para versionamento
